@@ -11,4 +11,4 @@ Knowing the syllabus and topics isnt enough, It is important to know the importa
 
 
 
-<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/464dbe2b-f95d-4d7d-9435-65cdf128ea95" />
+<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/464dbe2b-f95d-4d7d-9435-65cdf128ea95" />
